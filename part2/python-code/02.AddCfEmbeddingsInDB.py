@@ -1,3 +1,5 @@
+# Load embeddings in Oracle 23ai
+
 from dotenv import load_dotenv
 load_dotenv() # This loads the variables from .env into the environment
 
